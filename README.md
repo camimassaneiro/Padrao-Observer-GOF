@@ -5,3 +5,5 @@
 ### Atividade proposta pelo Prof. Adilson Vahldick - Universidade do Estado de Santa Catarina - UDESC
 
 ![Atividade Observer](https://github.com/camimassaneiro/Padrao-Observer-GOF/blob/master/atividade%20obsrver%205%201.PNG)
+
+![Atividade Observer] (https://github.com/camimassaneiro/Padrao-Observer-GOF/blob/master/Atividade%20observer%205%202.PNG)
