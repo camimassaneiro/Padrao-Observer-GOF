@@ -4,4 +4,4 @@
 
 ### Atividade proposta pelo Prof. Adilson Vahldick - Universidade do Estado de Santa Catarina - UDESC
 
-![Atividade Observer](https://github.com/camimassaneiro/Padrao-Observer-GOF/commit/58a53e07e4eb1f732d3864d0d842a701c023dad3)
+![Atividade Observer](https://github.com/camimassaneiro/Padrao-Observer-GOF/commit/b20838f66b62b6c572df6b86ffe999e5b69c0341#diff-65bd923eeaec2bcaeceddb5507efa750630e6e22eaead6a0f9864f1aa2719b12)
